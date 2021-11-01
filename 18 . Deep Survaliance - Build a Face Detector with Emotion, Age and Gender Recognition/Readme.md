@@ -1,6 +1,6 @@
 ## Project: Deep Survaliance- Face Detector with Emotion, Age and Gender Recognition
 
- Click on '''Open in Colab''' 
+ Click on Open in Colab.
 
 
 ### Ouptut:
